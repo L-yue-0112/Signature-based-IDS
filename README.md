@@ -18,11 +18,11 @@ Scenario 5. Using DNN to classify the synthetic datasets.
 Since we used Jupyter Notebook in this project, there is no specific input, and outputs are all in the files.
 However, you may need to make sure that you have the correct datasets in the correct file paths if you want to run the notebook.
 - Specifically, all the files under the file "Hunting" with the name "hunt.ipynb" are codes for utilizing the Threat Hunter Playbook for different datasets.
-- To get the results of Scenario 1, you should run "Scenario 1.ipynb".
-- To get the results of Scenario 2, you should run "Scenario 2.ipynb".
-- To get the results of Scenario 3, you should run "Scenario 3.ipynb".
+- To get the results of Scenario 1, you should run "Scenario 1.ipynb" under "Resampled Data".
+- To get the results of Scenario 2, you should run "Scenario 2.ipynb" under "Resampled Data".
+- To get the results of Scenario 3, you should run "Scenario 3.ipynb" under "Resampled Data".
 - To get the results of Scenario 4, you should run all the files prefixed with "CTGAN_" under "Synthetic Data".
-- To get the results of Scenario 5, you should run "Scenario 5.ipynb".
+- To get the results of Scenario 5, you should run "Scenario 5.ipynb" under "Synthetic Data".
 
 The original and generated datasets are available to simplify the reproduction of results, if necessary. 
 While the models for CTGAN are recorded, they cannot be included due to size limitations. If you do not want to train your own models to generate synthetic datasets, 
